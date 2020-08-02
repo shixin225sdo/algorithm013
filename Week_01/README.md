@@ -1,5 +1,8 @@
 学习笔记
 ========
+![image](https://github.com/shixin225sdo/algorithm013/blob/master/Week_01/image/01.png)
+![image](https://github.com/shixin225sdo/algorithm013/blob/master/Week_01/image/02.png)
+
 
 PriorityQueue的源码学习
 -----------------------
