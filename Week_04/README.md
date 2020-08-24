@@ -10,8 +10,7 @@
 2.此处可根据二分查找的思想，通过取中间值，比较left和right，判断无序属于左区间还是右区间
 3.注意循环终止条件是left小于right，若包含等于会死循环；left和right也不是mid+1，因为mid不像正常二分查找会有个判断处理。
 4.代码如下
-、、、
-@Override
+```javascript
 public int find(int nums) {
     int left=0;
     int right=nums.length-1;
@@ -26,4 +25,4 @@ public int find(int nums) {
     }
     return left;
 }
-、、、
+```
